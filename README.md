@@ -1,6 +1,6 @@
 # NEAT neural slime volleyball
 
-Evolves an agent through tournament self-play
+Evolves an agent through tournament self-play using [NEAT-Python](https://github.com/google/evojax/blob/main/examples/train_slimevolley.py) on [SlimeVolley](https://github.com/google/evojax/blob/main/examples/train_slimevolley.py) task.
 
 1. set NEAT parameters in `config-feedforward`
 2. set training parameters in `train.py`
