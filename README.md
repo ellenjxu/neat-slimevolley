@@ -1,4 +1,4 @@
-# NEAT neural slime volleyball
+# NEAT neural slime volleyball <a href="https://emoji.gg/emoji/4545_RainbowBlobCat"><img src="https://cdn3.emoji.gg/emojis/4545_RainbowBlobCat.gif" width="32px" height="32px" alt="RainbowBlobCat"></a>
 
 Evolves an agent through tournament self-play using [NEAT-Python](https://github.com/google/evojax/blob/main/examples/train_slimevolley.py) on [SlimeVolley](https://github.com/google/evojax/blob/main/examples/train_slimevolley.py) task.
 
